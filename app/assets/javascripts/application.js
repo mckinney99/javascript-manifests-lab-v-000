@@ -18,3 +18,4 @@
 //= require hello_world
 //= require learning
 //= require main
+//= require doesn_nothing
